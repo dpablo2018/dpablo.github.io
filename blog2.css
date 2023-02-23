@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(1, 1, 55);
+    color: white;
+    
+    text-align: center;
+    letter-spacing: 3px;
+    
+}
+
+
+.col-sm-12{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+/*Make Name larger*/
+.yellow{
+    font-size: 50px;
+}
+
+
+
+
+
+
+.blog{
+    justify-content: start;
+}
+
+
+
+
+@media (max-width: 400px) {
+    .container {
+        width: 85%;
+        font-size: 25px;    
+    }
+}
+
+@media (min-width: 401px) and (max-width: 550px) {
+    .container {
+        width: 80%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 551px) and (max-width: 767px) {
+    .container {
+        width: 85%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .container {
+        width: 85%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        width: 85%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 50%;
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
